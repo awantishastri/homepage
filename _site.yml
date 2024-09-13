@@ -21,6 +21,7 @@ navbar:
     icon: fa-flask
   - text: Website Tutorial
     href: website_tutorial.html
+  # Doing the following will hide the file on the website  
   # - text: Resume
   #   href: "./resume/resume_john_doe.pdf"
   #   icon: fa-id-card
