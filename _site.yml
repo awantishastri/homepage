@@ -11,7 +11,7 @@ output:
     toc_depth: 3
     toc_float: yes
 navbar:
-  title: Estrella da Boss
+  title: Awanti Shastri
   left:
   - text: Home
     href: index.html
@@ -19,19 +19,19 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-flask
-  - text: Website Tutorial
-    href: website_tutorial.html
+#  - text: Website Tutorial
+#    href: website_tutorial.html
   # Doing the following will hide the file on the website  
-  # - text: Resume
-  #   href: "./resume/resume_john_doe.pdf"
-  #   icon: fa-id-card
+   - text: Resume
+     href: "./resume/CV_2024.pdf"
+     icon: fa-id-card
   right:
   - icon: fa-twitter
-    href: https://twitter.com/another_ant_guy
+    href: "https://x.com/aw_ant_i"
     align: right
   - { 
       icon: "fa-linkedin", 
-      href: "https://www.linkedin.com/in/biplabendu/", 
+      href: "https://www.linkedin.com/in/awanti-shastri-27442a12a/", 
       align: right
     }
 
