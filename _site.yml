@@ -22,9 +22,9 @@ navbar:
 #  - text: Website Tutorial
 #    href: website_tutorial.html
   # Doing the following will hide the file on the website  
-   - text: Resume
-     href: "./resume/CV_2024.pdf"
-     icon: fa-id-card
+  - text: Resume
+    href: "./resume/CV_2024.pdf"
+    icon: fa-id-card
   right:
   - icon: fa-twitter
     href: "https://x.com/aw_ant_i"
